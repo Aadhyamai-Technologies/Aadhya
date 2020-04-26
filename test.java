@@ -1,5 +1,3 @@
 hi  all
 
-how are you
-
-whre are you 
+how are you 
